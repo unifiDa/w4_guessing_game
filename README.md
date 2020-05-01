@@ -1,3 +1,5 @@
 # Assignment: Bash, Make, Git, and GitHub
-Fri  1 May 13:04:43 CEST 2020
+Date and time: 
+Fri  1 May 13:12:31 CEST 2020
+Lines of code in guessinggame.sh: 
 25
