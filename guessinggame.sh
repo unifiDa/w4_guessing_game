@@ -6,7 +6,7 @@ function listContents {
 }
 
 nC=$(listContents)
-echo $nC
+#echo $nC
 correctFlag=1
 while [[ $correctFlag -ne 0 ]]
 do
