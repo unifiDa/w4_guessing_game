@@ -1,6 +1,6 @@
 README.md: guessinggame.sh
 	touch README.md
-	echo '# Assignment: Bash, Make, Git, and GitHub' >> README.md
+	echo '# Assignment title: Guessing number of files' >> README.md
 	echo "" >> README.md
 	echo "**Date and time:** " >> README.md
 	date >> README.md
